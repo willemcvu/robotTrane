@@ -1,8 +1,8 @@
-/**
- * 
- * 
- * 
- */
+/** Author Willem Hillier
+ *  https://willemhillier.wordpress.com
+ *  willemhillier@gmail.com
+ *  Licensed under GPL, see
+ */ 
 
 //Key map. Starts at MIDI note MidiOffset.
 const byte PORTFMidi[] = {B11000111, B00000111, B00000000, B00111110, B00000000, B00000000, B00000000, B00000000,
